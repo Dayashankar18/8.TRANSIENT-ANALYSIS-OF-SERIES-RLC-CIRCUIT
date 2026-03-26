@@ -21,18 +21,8 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 
 **CIRCUIT DIAGRAM:**
+![Uploading image.png…]()
 
-
-
-
-**TABULATION:**
-
-
-**Calculation:**
-
-
-
-**Marksplitup:**
 
 
 **RESULT:**
